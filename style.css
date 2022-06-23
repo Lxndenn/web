@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&amp;display=swap');
+
+* (
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+)
+
+html {
+	font-size: 10px;
+}
+
+body {
+	background: #000;
+	background-position: 0 1000px;
+	font-family: 'Mochiy', sans-serif;
+}
+
+.container {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 3rem;
+	margin-top: 4rem;
+	text-align: center;
+}
+
+.name-1 {
+	color: #fff;
+	font-family: 'Mochiy', sans-serif;
+	font-size: 35px;
+	position: fixed;  
+	left: 40px;  
+	bottom: 230px;  
+	right: 10px;   
+	width: 95%;
+	color: #fff;
+}
+
+footer {
+	position: fixed;  
+	left: 10px;  
+	bottom: 5px;  
+	right: 10px;   
+	width: 95%;
+	color: #fff;
+	text-align: center;
+}
